@@ -15,8 +15,8 @@ for filename in os.listdir(src_dir):
     if not filename.lower().endswith('.png'):
         continue
 
-    input = os.path.join(src_dir, filename)
-    with Image.open(src_path) as img:
+    inputF = os.path.join(input, filename)
+    with Image.open(inputF) as img:
         for size in sizes:
 
             # scale using nearest neighbour so they are not blurry
