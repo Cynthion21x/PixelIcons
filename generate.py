@@ -10,7 +10,7 @@ output = 'apps'
 for size in sizes:
     os.makedirs(os.path.join(output, str(size)), exist_ok=True)
 
-for filename in os.listdir(src_dir):
+for filename in os.listdir(input):
 
     if not filename.lower().endswith('.png'):
         continue
