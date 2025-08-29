@@ -8,34 +8,34 @@ Directories=apps/16,apps/24,apps/32,apps/48,apps/64,apps/96,apps/128
 [apps/16]
 Size=16
 Type=Fixed
-Context=Applications
+Context=Applications,Actions,Categories,Devices,Emblems,Emotes,FileSystems,International,MimeTypes,Status
 
 [apps/24]
 Size=24
 Type=Fixed
-Context=Applications
+Context=Applications,Actions,Categories,Devices,Emblems,Emotes,FileSystems,International,MimeTypes,Status
 
 [apps/32]
 Size=32
 Type=Fixed
-Context=Applications
+Context=Applications,Actions,Categories,Devices,Emblems,Emotes,FileSystems,International,MimeTypes,Status
 
 [apps/48]
 Size=48
 Type=Fixed
-Context=Applications
+Context=Applications,Actions,Categories,Devices,Emblems,Emotes,FileSystems,International,MimeTypes,Status
 
 [apps/64]
 Size=64
 Type=Fixed
-Context=Applications
+Context=Applications,Actions,Categories,Devices,Emblems,Emotes,FileSystems,International,MimeTypes,Status
 
 [apps/96]
 Size=96
 Type=Fixed
-Context=Applications
+Context=Applications,Actions,Categories,Devices,Emblems,Emotes,FileSystems,International,MimeTypes,Status
 
 [apps/128]
 Size=128
 Type=Fixed
-Context=Applications
+Context=Applications,Actions,Categories,Devices,Emblems,Emotes,FileSystems,International,MimeTypes,Status
